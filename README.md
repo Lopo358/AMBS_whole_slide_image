@@ -22,3 +22,7 @@ If you use the model to score images, please cite the following article:
 
 L. Power, L. Acevedo, R. Yamashita, D. Rubin, I. Martin, A. Barbero. Deep learning enables the automation of grading histological tissue engineered cartilage images for quality control standardization,
 Osteoarthritis and Cartilage, Volume 29, Issue 3, 2021, Pages 433-443, ISSN 1063-4584, https://doi.org/10.1016/j.joca.2020.12.018.
+
+If you use AMBS_whole_slide_image.ipynb, please cite this github page:
+
+https://github.com/Lopo358/AMBS_whole_slide_image
